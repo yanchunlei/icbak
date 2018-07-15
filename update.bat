@@ -40,3 +40,9 @@ cd ..
 cd dnSpy
 git pull
 cd ..
+
+cd jekyll-xixia
+git pull
+cd ..
+
+pause
