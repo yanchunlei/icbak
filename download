@@ -1,12 +1,50 @@
 cd ..
 git clone git@github.com:littlecodersh/ItChat.git
-git clone git@github.com:asLody/TurboDex.git
 git clone git@github.com:jobbole/awesome-design-cn.git
+git clone git@github.com:zxixia/jekyll-xixia.git
+
+mkdir xposted
+cd xposted
+git clone git@github.com:rovo89/Xposed.git
+git clone git@github.com:rovo89/XposedBridge.git
+git clone git@github.com:rovo89/android_art.git
+git clone git@github.com:rovo89/XposedTools.git
+git clone git@github.com:rovo89/XposedInstaller.git
+cd ..
+
+mkdir elfhook
+cd elfhook
+git clone git@github.com:asLody/TurboDex.git
+git clone git@github.com:yanchunlei/AllHookInOne.git
+cd ..
+
+mkdir androidsecurity
+cd androidsecurity
 git clone git@github.com:skylot/jadx.git
 git clone git@github.com:rover12421/ShakaApktool.git
-git clone git@github.com:0xd4d/dnSpy.git
-git clone git@github.com:asLody/VirtualApp.git
 git clone git@github.com:iBotPeaches/Apktool.git
+git clone git@github.com:smartdone/dexdump.git
+git clone git@github.com:woxihuannisja/Bangcle.git
+cd ..
+
+mkdir unity
+cd unity
+git clone git@github.com:0xd4d/dnSpy.git
 git clone git@github.com:Perfare/AssetStudio.git
 git clone git@github.com:Perfare/Il2CppDumper.git
-git clone git@github.com:zxixia/jekyll-xixia.git
+cd ..
+
+mkdir androidplugin
+cd androidplugin
+git clone git@github.com:Qihoo360/RePlugin.git
+git clone git@github.com:asLody/VirtualApp.git
+git clone git@github.com:DroidPluginTeam/DroidPlugin.git
+cd ..
+
+mkdir MCPE
+cd MCPE
+git clone git@github.com:zhuowei/MCPELauncher.git
+git clone git@github.com:zhuowei/aFileChooser.git
+git clone git@github.com:Chainfire/libsuperuser.git
+git clone git@github.com:zhuowei/MCPELauncher-app.git
+cd ..
