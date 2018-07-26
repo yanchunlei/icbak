@@ -83,24 +83,6 @@ git pull
 cd ..
 cd ..
 
-cd MCPE
-cd MCPELauncher
-git pull
-cd ..
-
-cd aFileChooser
-git pull
-cd ..
-
-cd libsuperuser
-git pull
-cd ..
-
-cd MCPELauncher-app
-git pull
-cd ..
-
-cd ..
 
 cd ItChat
 git pull
@@ -111,6 +93,14 @@ git pull
 cd ..
 
 cd jekyll-xixia
+git pull
+cd ..
+
+cd py-googletrans
+git pull
+cd ..
+
+cd Mindustry
 git pull
 cd ..
 
